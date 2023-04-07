@@ -1,0 +1,38 @@
+body {
+    width: 50%;
+    margin: 0 auto;
+    background-color: whitesmoke;
+}
+
+h1, p {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+
+img {
+    height: 200px;
+}
+
+.blue {
+    background-color: rgb(101, 165, 239);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.pink {
+    background-color: rgb(243, 169, 193);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.white {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 20px;
+}
